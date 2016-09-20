@@ -1,8 +1,8 @@
 /************************************************
 * HardCodeTester.java
-* Allows a user to create a player's hand of cards
+* Allows the user to create a player's hand of cards
 * and decide which evaluator methods to test
-* Written by Sarah Green (stg2117)
+* @author SarahGreen
 *************************************************/
 
 import java.util.ArrayList;

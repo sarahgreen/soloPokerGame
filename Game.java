@@ -1,8 +1,7 @@
 /************************************************
 * Game.java
 * Creates a game of video poker
-* using the Card, Deck, and Player classes
-* Written by Sarah Green (stg2117)
+* @author SarahGreen
 ************************************************/
 
 import java.util.Scanner;

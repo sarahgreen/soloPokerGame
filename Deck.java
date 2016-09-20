@@ -1,7 +1,7 @@
 /************************************************
 * Deck.java
-* Creates a deck of playing cards using the Card class
-/* Written by Sarah Green (stg2117)
+* Creates a deck of playing cards
+/* @author SarahGreen
 ************************************************/
 
 import java.util.Random;

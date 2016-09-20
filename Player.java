@@ -1,9 +1,7 @@
 /************************************************
 * Player.java
 * Creates a player for a video poker game
-* and methods they need to play
-* using the Card and Deck classes
-* Written by Sarah Green (stg2117)
+* @author SarahGreen
 ************************************************/
 
 import java.util.ArrayList;

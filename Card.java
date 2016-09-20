@@ -1,7 +1,7 @@
 /************************************************
 * Card
 * Creates a playing card
-* Written by Sarah Green (stg2117)
+* @author SarahGreen
 ************************************************/
 
 public class Card implements Comparable<Card> {

@@ -1,7 +1,7 @@
 /************************************************
 * Test.java
 * Tests the Game class for a game of video poker
-* Written by Sarah Green (stg2117)
+* @author SarahGreen
 ***********************************************/
 
 public class Test {

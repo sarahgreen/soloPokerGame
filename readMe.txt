@@ -5,8 +5,8 @@
 
 HOW TO RUN
 
+From the command line:
 $ javac *.java
-
 $ java Test
 
 DESCRIPTION
